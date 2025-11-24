@@ -42,5 +42,3 @@ Atualmente, estou me aprofundando em aprimorar os meus conhecimentos nas linguag
 * **Lattes:** [Currículo Lattes](http://lattes.cnpq.br/2244178497997557)
 
 ---
-
-**"O aprendizado é um processo contínuo."**
