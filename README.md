@@ -37,9 +37,9 @@ Atualmente, estou me aprofundando em aprimorar os meus conhecimentos nas linguag
 
 ### 📬 Conecte-se Comigo!
 
-* **LinkedIn:** [Link para o seu perfil do LinkedIn](https://www.linkedin.com/in/pedro-henrique-539b23377/)
-* **Email:** [Email](pedrohenriquends1@gmail.com)
-* **Lattes:** [Link para o seu Currículo Lattes]()
+* **LinkedIn:** (https://www.linkedin.com/in/pedro-henrique-539b23377/)
+* **Email:** (pedrohenriquends1@gmail.com)
+* **Lattes:** [Currículo Lattes](http://lattes.cnpq.br/2244178497997557)
 
 ---
 
