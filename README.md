@@ -25,8 +25,7 @@ Aqui está aum dos projetos que tenho trabalhado. Clique neles para ver mais det
 
 * **Descrição:** Um pequeno Site web desenvolvido para calcular Imc, e escolha de planos.
 * **Tecnologias:** JavaScript, HTML, CSS.
-* **Link do Repositório:** [Link para o repositório deste projeto no GitHub]
-    * *(Exemplo: `https://github.com/SeuUsuario/sistema-tarefas`)*
+* **Link do Repositório:** [Academia](https://github.com/Pedrohns1/Academia.git)
 
 ---
 
